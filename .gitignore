@@ -1,5 +1,7 @@
 # Carpeta de descargas generada por el script
 TC_Downloads/
+.claude
+.gitignore      
 
 # Entornos virtuales
 .venv/
